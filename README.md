@@ -8,3 +8,5 @@ A smart Contract Security Audit has been done on The Hundred DAO ( https://hundr
 A smart Contract Security Audit has been done on CCNFT ( https://carboncollectiblenfts.com/ ) by White Hat DAO. Report delivered on 11th of March 2022.
 
 A smart Contract Security Audit has been done on Fragments NFT (https://fragmentsnft.xyz/ ) by White Hat DAO. Report delivered on 26 th of April 2022.
+
+A smart Contract Security Audit has been done on Fragments NFT (https://whitehatdao.com/ ) by White Hat DAO community member. Report delivered on 27/07/2023.
